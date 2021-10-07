@@ -1,69 +1,69 @@
 {
-    "users":[
-        {
-        "titleName" :"นาย",
-        "firstName" :"สมชาย",
-        "lastName":"รักชาติ",
-        "middleName":"", 
-        "titleNameEn":"MR.", 
-        "firstNameEn":"somchi",
-        "lastNameEn":"loveThai",
-        "middleNameEn":"", 
-        "gender":"ชาย",
-        "dateOfBirth" :"11/11/2511" ,
-        "patientCode" :1000001
-        } ,
-        {
-            "patientCode" :1000002,
-            "titleName" :"นางสาว",
-            "firstName" :"สมรัก",
-            "lastName":"รักชาติ",
-            "middleName":"", 
-            "titleNameEn":"MR.", 
-            "firstNameEn":"somLove",
-            "lastNameEn":"loveThai",
-            "middleNameEn":"", 
-            "gender":"หญิง",
-            "dateOfBirth" :"22/02/2542" 
-            } ,
-            {
-                "patientCode" :1000003,
-                "titleName" :"นาย",
-                "firstName" :"สมนึก",
-                "lastName":"รักชาติ",
-                "middleName":"", 
-                "titleNameEn":"MR.", 
-                "firstNameEn":"somnux",
-                "lastNameEn":"loveThai",
-                "middleNameEn":"", 
-                "gender":"ชาย",
-                "dateOfBirth" :"03/03/2533" 
-                } ,
-                {
-                    "patientCode" :1000004,
-                    "titleName" :"นาย",
-                    "firstName" :"สมนาย",
-                    "lastName":"รักชาติ",
-                    "middleName":"", 
-                    "titleNameEn":"MR.", 
-                    "firstNameEn":"somMR",
-                    "lastNameEn":"loveThai",
-                    "middleNameEn":"", 
-                    "gender":"หญิง",
-                    "dateOfBirth" :"04/04/2544" 
-                    } ,
-                    {
-                        "patientCode" :1000005,
-                        "titleName" :"นาง",
-                        "firstName" :"สมหญิง",
-                        "lastName":"รักชาติ",
-                        "middleName":"กลาง", 
-                        "titleNameEn":"MISS.", 
-                        "firstNameEn":"somGirl",
-                        "lastNameEn":"loveThai",
-                        "middleNameEn":"mid", 
-                        "gender":"หญิง",
-                        "dateOfBirth" :"05/05/2545" 
-                        } 
-    ]
+  "users":[
+      {
+      "titleName" :"นาย",
+      "firstName" :"สมชาย",
+      "lastName":"รักชาติ",
+      "middleName":"", 
+      "titleNameEn":"MR.", 
+      "firstNameEn":"somchi",
+      "lastNameEn":"loveThai",
+      "middleNameEn":"", 
+      "gender":"ชาย",
+      "dateOfBirth" :"11/11/2511" ,
+      "patientCode" :1000001
+      } ,
+      {
+          "patientCode" :1000002,
+          "titleName" :"นางสาว",
+          "firstName" :"สมรัก",
+          "lastName":"รักชาติ",
+          "middleName":"", 
+          "titleNameEn":"MR.", 
+          "firstNameEn":"somLove",
+          "lastNameEn":"loveThai",
+          "middleNameEn":"", 
+          "gender":"หญิง",
+          "dateOfBirth" :"22/02/2542" 
+          } ,
+          {
+              "patientCode" :1000003,
+              "titleName" :"นาย",
+              "firstName" :"สมนึก",
+              "lastName":"รักชาติ",
+              "middleName":"", 
+              "titleNameEn":"MR.", 
+              "firstNameEn":"somnux",
+              "lastNameEn":"loveThai",
+              "middleNameEn":"", 
+              "gender":"ชาย",
+              "dateOfBirth" :"03/03/2533" 
+              } ,
+              {
+                  "patientCode" :1000004,
+                  "titleName" :"นาย",
+                  "firstName" :"สมนาย",
+                  "lastName":"รักชาติ",
+                  "middleName":"", 
+                  "titleNameEn":"MR.", 
+                  "firstNameEn":"somMR",
+                  "lastNameEn":"loveThai",
+                  "middleNameEn":"", 
+                  "gender":"หญิง",
+                  "dateOfBirth" :"04/04/2544" 
+                  } ,
+                  {
+                      "patientCode" :1000005,
+                      "titleName" :"นาง",
+                      "firstName" :"สมหญิง",
+                      "lastName":"รักชาติ",
+                      "middleName":"กลาง", 
+                      "titleNameEn":"MISS.", 
+                      "firstNameEn":"somGirl",
+                      "lastNameEn":"loveThai",
+                      "middleNameEn":"mid", 
+                      "gender":"หญิง",
+                      "dateOfBirth" :"05/05/2545" 
+                      } 
+  ]
 }
